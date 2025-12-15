@@ -1,5 +1,5 @@
 ---
-name: engineering
+name: Engineering
 description: Software engineering agent for coding tasks
 tools: ["List", "Read", "Edit", "Write", "Grep", "Glob", "Shell", "TodoWrite", "WebSearch", "WebFetch", "Diagnostics"]
 ---
