@@ -1,5 +1,6 @@
 ---
 name: Design
+type: general
 description: Software design agent for technical design and architecture decisions
 tools: ["List", "Read", "Grep", "Glob", "Shell", "TodoWrite", "WebSearch", "WebFetch", "Write", "Edit"]
 ---

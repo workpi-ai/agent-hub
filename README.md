@@ -4,9 +4,31 @@ A centralized repository for AI agent configurations compatible with [GitHub Cop
 
 ## Available Agents
 
+### General Purpose Agents
+
 | Agent | Description | File |
 |-------|-------------|------|
-| **Engineering** | Software engineering agent for coding tasks | [engineering.md](agents/engineering.md) |
+| **Engineering** | Software engineering agent for coding tasks | [general/engineering.md](agents/general/engineering.md) |
+| **Design** | Design-focused agent for UI/UX tasks | [general/design.md](agents/general/design.md) |
+| **Generic** | Fallback agent for unknown/experimental models | [general/generic.md](agents/general/generic.md) |
+| **Code Review** | Comprehensive code review agent | [general/code-review.md](agents/general/code-review.md) |
+
+### OpenAI Model Prompts
+
+#### Codex-Optimized Models
+
+| Agent | Description | File |
+|-------|-------------|------|
+| **GPT-5 Codex** | Base GPT-5 Codex model | [openai/gpt-5-codex.md](agents/openai/gpt-5-codex.md) |
+| **GPT-5.1 Codex Max** | Flagship Codex with frontend guidelines | [openai/gpt-5.1-codex-max.md](agents/openai/gpt-5.1-codex-max.md) |
+| **GPT-5.2 Codex** | Latest codex-optimized model | [openai/gpt-5.2-codex.md](agents/openai/gpt-5.2-codex.md) |
+
+#### Standard GPT Models
+
+| Agent | Description | File |
+|-------|-------------|------|
+| **GPT-5.1** | Broad world knowledge with strong reasoning | [openai/gpt-5.1.md](agents/openai/gpt-5.1.md) |
+| **GPT-5.2** | Latest frontier model | [openai/gpt-5.2.md](agents/openai/gpt-5.2.md) |
 
 ## Agent File Format
 
