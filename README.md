@@ -10,6 +10,7 @@ A centralized repository for AI agent configurations compatible with [GitHub Cop
 |-------|-------------|------|
 | **Engineering** | Software engineering agent for coding tasks | [general/engineering.md](agents/general/engineering.md) |
 | **Design** | Design-focused agent for UI/UX tasks | [general/design.md](agents/general/design.md) |
+| **DesktopAssistant** | User-friendly assistant for everyday tasks, designed for non-technical users | [general/desktop-assistant.md](agents/general/desktop-assistant.md) |
 | **Generic** | Fallback agent for unknown/experimental models | [general/generic.md](agents/general/generic.md) |
 | **Code Review** | Comprehensive code review agent | [general/code-review.md](agents/general/code-review.md) |
 
